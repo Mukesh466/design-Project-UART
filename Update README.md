@@ -315,7 +315,7 @@ The Liberty files are present in the library path,
 
 ## Synthesis RTL Schematic:
 
-![Screenshot (240)](https://github.com/user-attachments/assets/20d0b094-ff01-411c-94cf-ef9998b1a4a9)
+![WhatsApp Image 2025-05-27 at 20 00 12_51edca1f](https://github.com/user-attachments/assets/23e4482f-9a19-4fd2-8af1-e58d2eb3fda5)
 
 ## nclaunch simulation:
 
